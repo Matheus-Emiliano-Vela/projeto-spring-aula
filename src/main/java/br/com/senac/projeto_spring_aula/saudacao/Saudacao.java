@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class Saudacao {
 
     public String mensagem(){
-        return "Olá eu sou um Bean gerenciado pelo Spring. ";
+        return "Olá eu sou um Bean gerenciado pelo Spring.";
     }
 }
